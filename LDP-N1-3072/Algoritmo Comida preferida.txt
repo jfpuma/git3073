@@ -1,0 +1,27 @@
+Premisas para preparar unas panquecas
+
+- El usuario posee todos los ingredientes necesarios
+- El usuario tiene todos los utencilios para la preparacion
+- La cocina es apta para preparar dicha receta
+
+Algoritmo
+
+INICIO
+
+1- Sacar todos los ingredientes necesarios para prepara la mezcla:
+*Huevos
+*Harina de trigo
+*Leche
+*Azucar
+2- Agregar todos los ingredientes de la mezcla en una licuadora.
+3- Mezclar los ingredientes por unos minutos en la licuadora.
+4- Preparar el Sarten donde se cocinaran las panquecas.
+5- SI se prefiere con mantequilla 
+6- Colocar la mantequilla al sarten
+7- SI NO se le coloca aceite comestible al sarten
+8- Se vierte la mezcla segun el tamaño del sarten
+9- Se voltea la panqueca segun el termino de coccion
+10- Saca la panqueca y se coloca en un plato llano
+11- Se repiten los pasos 8 y 9 hasta finalizar la mezcla
+
+FIN

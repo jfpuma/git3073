@@ -1,0 +1,19 @@
+Entradas
+
+- Nota 1er examen sobre 27 pts
+- Nota 2do examen sobre 27 pts
+- Nota 3er examen sobre 27 pts
+- Nota evaluacion continua sobre 9 pts
+- Nota trabajo practico sobre 10 pts
+ 
+Proceso
+
+- Sumar los 5 datos agregados por el usuario para obtener el promedio en escala a 100pts
+- Sumar los 5 datos agregados por el usuario y divirlo entre 5 para obtener el promedio en escala a 20pts 
+- Sumar los 5 datos agregados por el usuario y dividirlo entre 25 para obtener el promedio en escala a 4 pts
+
+Salidas
+
+- El promedio en escala a 100pts de cada estudiante
+- El promedio en escala a 20pts de cada estudiante
+- El promedio en escala a 4pts de cada estudiante
